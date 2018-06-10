@@ -1,0 +1,186 @@
+﻿ID,Gender,Grade,Horoscope,Subject,IntExt,OptPest,ScreenTime,Sleep,PhysActive,HrsHomework,SpendTime1,SpendTime2,Self1,Self2,Career,Superpower
+1,male,4,Scorpio,Math,Extravert,Optimist,1,7,10,10,baseball,relaxing,active,competitive,professional baseball player,sonic speed
+2,female,4,Capricorn,Gym,Extravert,Optimist,1,8,5,0,playing outside,swimming,kind,active,Teacher,power to grant wishes
+3,male,4,Taurus,Math,Introvert,Optimist,4,9,22,1,video games,soccer,active,creative,professional soccer player,powerful kick
+4,male,4,Aquarius,Math,Don't Know,Don't Know,3,9,9,1,video games,sports,active,responsible,professional hockey player,teleportaion
+5,male,4,Scorpio,Gym,Don't Know,Don't Know,1,9,10,1,reading,hanging out,intellegent,strong,engineer,power to answer any question
+6,male,4,Pisces,Gym,Extravert,Optimist,2,9,20,2,sports,playing with friends,funny,active,professional hockey player,fly
+7,male,3,Scorpio,Art,Introvert,Optimist,1,11,4,14,watching TV,reading,joyful,lazy,artist,telekinesis
+8,male,6,Taurus,Math,Extravert,Optimist,4,9,12,21,video games,playing outside,fun ,confident,banker,teleportation
+9,male,6,Aries,Gym,Introvert,Pessimist,6,8,4,6,video games,biking,sad,calm,computer scientist,materialize anything
+10,male,6,Pisces,Math,Introvert,Don't Know,3,9,12,3,video games,dungeons and dragons,smart,tired,Teacher,manipulating physics
+11,female,4,Leo,Gym,Don't Know,Optimist,1,10,5,0, reading ,drawing,funny,athletic,swimmer,flying
+12,female,4,Scorpio,Math,Don't Know,Optimist,1,10,5,0,tv,lego,caring,responsible,idk,teleportation
+13,female,4,Taurus,Art,Extravert,Optimist,0,9,5,0,reading,outside,kind,active,doctor,invisibility
+14,male,7,Leo,Gym,Extravert,Don't Know,5,8,14,4,sports,idk,living,annoying,sports analyst,time travel
+15,male,8,Sagittarius,Gym,Don't Know,Optimist,6,9,25,2,sports,tv,athletic,energetic,athlete,strength
+16,female,8,Cancer,Gym,Introvert,Optimist,5,7,6,3,read,watch,idk,idk,architect,teleportation
+17,male,8,Leo,Science,Introvert,Optimist,8,7,2,0,house,idk,idk,idk,scientist,invisibility
+18,male,8,Scorpio,Gym,Introvert,Optimist,4,8,10,0,soccer,ps4,awesome,amazing,rich,regeneration
+19,male,8,Cancer,Math,Introvert,Optimist,2,9,10,3,soccer,ps4,funny ,smart,soccer player,reading minds
+20,female,8,Capricorn,Art,Extravert,Pessimist,3,8,10,5,phone,tv,smart,happy,doctor,teleportation
+21,female,5,Cancer,Art,Introvert,Optimist,2,9,2,1,bike ,soccer,quite,pretty,vet,invisable
+22,female,6,Virgo,Science,Introvert,Don't Know,1,8,5,2,sports ,phone ,sporty,smart,scientist,shape shift
+23,female,5,Pisces,Art,Extravert,Optimist,1,9,1,8,read ,bike ,nice,kind,auther,fly
+24,female,6,Taurus,Art,Introvert,Optimist,4,9,6,4,drawing,ranbowloom ,nice,happy,dessinger,invisible
+25,female,6,Pisces,Science,Extravert,Optimist,1,8,7,4,sports ,talk,fun,kind,teacher,telaport
+26,female,6,Gemini,Art,Introvert,Pessimist,3,6,14,3,read ,play,wierd,awkward,rich man,telaport
+27,male,6,Libra,Gym,Extravert,Pessimist,1,10,5,2,read ,play,rebel,small,dessinger,shape shift
+28,male,6,Scorpio,Science,Introvert,Don't Know,3,10,5,5,video games,talk,funny,loud,dont know,shape shift
+29,female,6,Virgo,Math,Don't Know,Pessimist,4,9,14,14,read ,play,anoying,fun,engenier ,fire
+30,male,6,Gemini,Science,Extravert,Optimist,4,9,9,10,play,tv,talk,awsome,teacher,
+31,female,8,Cancer,Science,Extravert,Optimist,9,8,8,35,reading,playing games,childish,annoying,vet,fly
+32,female,8,Gemini,Science,Don't Know,Don't Know,10,5,5,20,netflix,texting talking,moody,intense,doctor,change probability
+33,female,8,Scorpio,Science,Extravert,Don't Know,10,3,7,20,netflix,eating,loud,unpredictable,idk,read minds
+34,female,7,Cancer,Art,Introvert,Pessimist,3,9,3,2,reading,playing games,shy,curious,idk,time travel
+35,female,7,Gemini,Gym,Don't Know,Optimist,3,8,7,5,sports,reading,creative,curious,arcitect,fly
+36,male,8,Aquarius,Art,Don't Know,Optimist,4,8,7,6,reading,youtube,quiet,expressive,geneticist,teleport
+37,male,8,Taurus,History,Don't Know,Don't Know,5,10,7,8,reading,playing games,curious,friendly,landscaper,have everything
+38,male,7,Virgo,Math,Introvert,Pessimist,2,9,14,4,rubix cubes,piano,shy,persistent,physisist,teleport
+39,male,8,Taurus,Math,Extravert,Optimist,2,9,10,3,sports,video games,tall,asian,lawyer,munipulate time
+40,male,8,Aquarius,Gym,Extravert,Pessimist,2,9,9,3,sports,summer school,funny,energitic,sergent,invincible
+41,male,5,Pisces,Math,Don't Know,Pessimist,1,9,9,4,staring blankly into space,looking at nothing,simple,n/a,mechanic,invisibility
+42,male,5,Capricorn,Gym,Extravert,Don't Know,6,8,11,18,18,sporty,strong,vet,controlling minds,
+43,male,5,Capricorn,Gym,Extravert,Pessimist,4,8,14,5,ball hockey,being myself,talkative,beyond not annoying,n/a,wishes
+44,male,5,Taurus,Gym,Extravert,Pessimist,1,9,12,1,baseball,sleeping,n/a,n/a,n/a,speed
+45,female,5,Libra,Science,Don't Know,Optimist,3,8,7,2,crafting,making things,creative,caring,scientist,wishes
+46,male,5,Libra,Gym,Extravert,Pessimist,1,11,5,1,watching tv,sports,talkative,caring,athlete,reading minds
+47,male,5,Gemini,Gym,Extravert,Optimist,2,10,11,2,sports,playing video games,empathetic,kind,sports journalist,invisibility
+48,female,5,Taurus,Art,Extravert,Optimist,1,7,5,1,reading,swimming,optimistic,extravert,doctor,wishes
+49,female,5,Leo,Math,Introvert,Optimist,2,10,6,6,watching pokemon,reading,nice,outgoing,lawyer,fly
+50,female,5,Sagittarius,Art,Introvert,Don't Know,2,8,8,1,reading,watching videos,athletic,fidgety,engineer,telepathy
+51,female,5,Leo,Art,Extravert,Optimist,5,9,8,1,run,dog,Fun,Sweet,Scientist,Telepathy
+52,female,6,Taurus,Gym,Extravert,Optimist,1,10,10,1,soccer,read,pretty,sporty,entrepreneur,speed
+53,female,6,Aries,History,Extravert,Optimist,3,9,6,4,netflix,youtube,happy,kind,baker,fly
+54,male,5,Scorpio,Gym,Extravert,Optimist,2,7,2,1,family,helpful,greatful,awesome,inventer,speed
+55,male,5,Gemini,Gym,Extravert,Optimist,4,9,12,0,video games,outside,cool,awesome,basketball,shape shift
+56,male,4,Scorpio,Gym,Extravert,Optimist,3,10,5,3,xbox,reading,cool,active,lawyer,mind controle
+57,male,4,Cancer,History,Introvert,Optimist,1,8,82,8,activeitys,basket ball,generouse,kind,cop,invincable
+58,female,4,Pisces,Gym,Introvert,Optimist,1,10,3,0,outside,video games,nice,nice,hockey player,lazer eyes
+59,female,6,Pisces,Math,Extravert,Optimist,1,9,5,1,with friends,sports,funny,kind,Docter,fly
+60,female,6,Taurus,Math,Introvert,Don't Know,1,10,4,0,with friends,read,nice,funny,lawyer,
+61,male,6,Aquarius,Gym,Introvert,Don't Know,3,8,10,14,Video Games,Reading,Childish,Lazy,N/A,All
+62,Don't Identify,6,Libra,Art,Don't Know,Don't Know,4,12,3,6,Pets,Video Games,Sarcastic,Sassy,Artist,Time and space control
+63,male,6,Gemini,Math,Extravert,Don't Know,3,9,8,3,Video Games,Piano,Energetic,Curious,N/A,Conjure
+64,female,6,Leo,Math,Don't Know,Don't Know,1,9,2,1,Reading,Writitng,Quiet,Boring,Doctor,Invisibility
+65,female,6,Leo,Gym,Introvert,Optimist,1,8,10,3,Friends,Drawing,Weird,Active,Vet,Read Minds
+66,female,6,Aries,Gym,Introvert,Optimist,3,10,15,3,Baking,Shopping,Funny,Shy,Lawyer,Time Travel
+67,male,6,Capricorn,Gym,Extravert,Optimist,5,9,10,3,Outside,Friends,Chill,Tall,Architect,Control Nature
+68,male,6,Cancer,Gym,Extravert,Optimist,1,10,12,3,Sports,Friends,Active,Cool,Athlete,Flying
+69,male,4,Aries,Math,Introvert,Pessimist,1,10,70,21,Active,Sleeping,Intelligent,Athletic,Athlete,Fire
+70,male,4,Sagittarius,Math,Extravert,Pessimist,3,8,50,0,Games,Eating ,Annoying,Awesome,Athlete,Speak Any Language
+71,female,6,Cancer,Gym,Extravert,Optimist,1,9,14,1,Hockey,Friends,Athletic,Amazing,Lawyer,Read Minds
+72,female,6,Leo,Science,Introvert,Optimist,2,9,7,1,Draw,Dog,Shy,Embarassed,Speech Therapist,Shape Shifting
+73,male,6,Cancer,Gym,Introvert,Optimist,1,9,21,1,Soccer,Playing w/ sister,Active,Athletic,Soccer Plyer,Amazing At Everything
+74,female,4,Cancer,Art,Introvert,Optimist,2,10,20,6,running,art,thoughtful,friendly,paleontologist,invisible
+75,male,4,Leo,Art,Don't Know,Pessimist,3,9,7,10,video games,drawing,weird,odd,Investment banker,make anything
+76,female,4,Pisces,Art,Don't Know,Optimist,2,11,10,1,playing with dog,dance,funny,awesome,lawyer,teleport
+77,female,4,Cancer,Math,Extravert,Optimist,1,9,36,7,dance,sports,active,fun,idk,everything (little)
+78,female,4,Leo,Gym,Don't Know,Optimist,1,9,8,4,play w/ friends,read,funny,small,idk,invisible
+79,male,4,Pisces,Science,Extravert,Pessimist,1,8,72,3,read,play games,negative,sneaky,author,teleport
+80,male,4,Aquarius,Science,Extravert,Pessimist,2,8,9,4,soccer,sing on a couch,friendly,creative,author,invisible
+81,female,4,Scorpio,Art,Don't Know,Pessimist,1,12,2,1,draw,crafts,funny,nice,pilot,fly
+82,male,4,Taurus,Math,Extravert,Pessimist,1,11,12,2,read,video games,angry,awesome,lawyer,teleport
+83,female,4,Scorpio,Art,Don't Know,Don't Know,0,10,2,1,computer games,friends,art,cats,idk,fly
+84,male,4,Pisces,Gym,Don't Know,Optimist,1,10,28,0,Sports,Videogames,Active,Smart,I don't know,Invisibility
+85,male,4,Virgo,Gym,Extravert,Optimist,2,9,30,1,Videogames,Playing,Kind,Happy,Programmer,Fire Power
+86,male,4,Scorpio,Gym,Extravert,Optimist,1,8,10,2,Sports,Relax,Happy,Active,Baseball Player,Speed
+87,male,4,Gemini,Gym,Don't Know,Optimist,2,9,16,3,Videogames,Sports,Competetive,Kind,NHL Player,invisibility
+88,male,4,Virgo,Art,Extravert,Optimist,2,10,20,7,Guild,Play,Gamer,Sporty,Doctor,invisibility
+89,female,4,Scorpio,Art,Introvert,Optimist,1,9,19,7,Art,Work,Smart,Sweet,Doctor,Fly
+90,male,5,Scorpio,Science,Extravert,Optimist,3,10,10,6,Play,Videogames,Active,Smart,Scientist,Teleportation
+91,male,5,Scorpio,Gym,Extravert,Pessimist,4,9,6,7,Skateboard,Videogames,Gamer,Smart,Programmer,All Powers
+92,male,5,Libra,Math,Introvert,Don't Know,4,9,12,5,Youtube,Relax,Active,Smart,Scientist,Teleportation
+93,male,5,Virgo,Gym,Extravert,Don't Know,5,8,5,7,Tv,Guitar,Gamer,Annoying,Soldier,All Powers
+94,female,6,Scorpio,Math,Don't Know,Pessimist,7,8,8,0,youtube,dancing,sassy,funny,chef,infinity stones
+95,male,3,Capricorn,,Don't Know,Don't Know,1,10,10,0,video games,reading,,,pokemon trainer,teleport
+96,female,4,Taurus,Art,Don't Know,Don't Know,1,10,15,4,video games,lego,loyal,artistic,programmer,remember everything
+97,male,5,Libra,Gym,Don't Know,Optimist,1,10,5,1,play with cat,reading,athletic,social,,all powers
+98,female,5,Sagittarius,Science,Extravert,Pessimist,3,10,11,6,fortnite,shoping,funny,rude,pediatrician,shape shift
+99,female,5,Libra,Math,Don't Know,Pessimist,3,9,8,6,gymnastics,youtube,funny,athletic,engineer,phycic
+100,female,5,Sagittarius,Math,Introvert,Pessimist,6,8,5,7,video games,internet,jerk,dishonest,,take other powers
+101,female,5,Leo,Math,Introvert,Optimist,4,9,11,8,sports,netflix,funny ,athletic,software designer,never tired
+102,male,6,Aries,Art,Introvert,Pessimist,3,8,10,3,talk with friends,youtube,agressive,calm,computer designer,E.S.P.
+103,female,6,Scorpio,Gym,Extravert,Don't Know,3,10,10,5,video games,netflix,small,funny,designer,shape shifter
+104,female,7,Leo,Art,Don't Know,Optimist,1,9,2,0.5,IDK,IDK,Human,Person,Nerosurgeon,Fly
+105,male,7,Aquarius,Gym,Extravert,Optimist,4,9,26,1,Sports,Beating friend,Annoying ,stuburn,baseball player,Fly
+106,female,7,Cancer,Gym,Extravert,Optimist,4,7,10,0,Being active,talking,funny,confused,surgeon,Read minds
+107,male,7,Gemini,History,Extravert,Optimist,2,8,15,2,Dancing,Hanging with friends,funny,outgoing,vet,physich
+108,female,7,Cancer,Art,Introvert,Pessimist,4,7,4,12,watching netflix,Hanging with friends,Hilarious,awesome,doctor,Invisible
+109,female,7,Sagittarius,Math,Introvert,Optimist,0.5,9,14,12,going to the park,staying home,Fashionable,awesome,surgeon,Fire powers
+110,female,7,Gemini,Math,Extravert,Optimist,2,8,4,7,playing sports,cooking,smart,active,doctor,teleport
+111,female,7,Libra,Math,Introvert,Optimist,2,9.5,4,8,sleeping,playing sports,smart,active,sergeon,Read minds
+112,male,7,Taurus,Gym,Don't Know,Pessimist,4,9,28,7,playing soccer,playing fortnite,athletic,smart,soccer,speed
+113,male,7,Cancer,Gym,Don't Know,Optimist,5,9,10,6,playing hockey,playing video games,athletic,smart,Wealthy,
+114,female,8,Libra,Math,Extravert,Optimist,18,6,0,4,friends,family,sassy,happy,lawyer,making money out of thin air
+115,female,8,Libra,Art,Extravert,Optimist,4,8,12,0,singing,friends,fun,happy,doctor,death ray
+116,female,8,Aquarius,Gym,Extravert,Don't Know,5,8,10,0,friends,netflix,athletic,thiccc,proffesional,flight
+117,male,8,Capricorn,Art,Introvert,Don't Know,3,10,10,0,sleeping,reading,funny,annoying,window washer,infinite knowledge
+118,female,8,Aries,Art,Extravert,Don't Know,4,8,4,1,friends,TV,smart,blonde,lawyer,time travel
+119,male,8,Leo,Art,Extravert,Optimist,5,8,15,0,fortnite,friends,the,goat,lawyer,mind reading
+120,female,8,Taurus,Gym,Extravert,Optimist,5,8,8,0,friends,netflix,smart,nice,actress,control over time
+121,female,8,Pisces,Art,Don't Know,Optimist,3,8,3,1,drawing ,games,calm,happy,animator,molecular manipulation
+122,male,8,Gemini,Science,Introvert,Don't Know,5,7,6,0,games,eating,overly energetic,impatient,neurosurgeon,flight 
+123,male,8,Virgo,History,Don't Know,Optimist,1,9,6,5,soccer,tennis,funny,athletic,soccer player,
+124,female,6,Virgo,Math,Don't Know,Pessimist,4,9,6,14,Read,Sleep,Bookworm,Annoying,I don't Know,Fire
+125,male,6,Gemini,Math,Introvert,Pessimist,3,5,8,2,Read,Fortnite,Wierd,Crazy,Rich,Rearanging Atoms
+126,female,6,Pisces,Gym,Extravert,Pessimist,7,6,7,5,Watch TV,Play with Friends,Chill,Dude,Rich,Mind Reading
+127,male,6,Aries,Gym,Introvert,Pessimist,6,8,12,4,Code,Bike,Witty,Condesending,Computer Scientist,Cunjuring
+128,male,6,Pisces,Science,Introvert,Pessimist,1,9,10,7,Read,Fortnite,Smart,Sporty,IT Worker,Conjuring
+129,male,6,Cancer,Gym,Introvert,Pessimist,6,7,7,3,Watch TV,Fortnite,Lazy,Gifted,Teacher,Infinite everything
+130,male,6,Sagittarius,Math,Introvert,Don't Know,3,9,14,4,D&D,Fortnite,Smart,Video Game Lover,Teacher,Manipulate the Laws of Phisycs
+131,male,6,Taurus,Math,Extravert,Optimist,4,7,24,5,Go to the Park,Fortnite,Smart,Extreverted,Investment Banker,Infinite everything
+132,female,6,Cancer,Science,Introvert,Optimist,1,9,12,5,Read,Watch my Fish,Friendly,Shy,Vetranerian,Shape-Shift
+133,male,6,Virgo,Math,Introvert,Optimist,0,5,40,1,Sports,Play with Friends,Fun,Extreverted,Athelete,Flight
+134,male,8,Aries,Science,Extravert,Pessimist,2,10,7,7,soccer,hockey,athletic,intelligent,engineer,invisible
+135,female,8,Sagittarius,Science,Extravert,Optimist,2,10,5,7,reading,swimming,weird,cool,n/a,flight
+136,male,8,Aries,Gym,Extravert,Optimist,2,10,14,6,video games,reading,cheerful,optimistic,n/a,time powers
+137,male,8,Leo,Art,Extravert,Pessimist,3,8,20,2,instagram,sleeping,petty,basic,fashion designer,teleport
+138,female,8,Aries,Art,Extravert,Optimist,8,7,8,2,Netflix,friends,adventurous,n/a,loyer,teleportation
+139,female,8,Capricorn,Gym,Introvert,Pessimist,1,6,1,1,reading,sleeping,peculiar,sassy,model,mind control
+140,female,8,Gemini,Science,Extravert,Optimist,2,7,21,5,Netflix,friends,cool,cat,model,teleportation
+141,male,8,Libra,Art,Extravert,Pessimist,3,8,3,7,friends,Netflix,small,blond,actor/model,reality manipulation
+142,female,8,Capricorn,Gym,Don't Know,Optimist,5,7,14,5,relaxing,friends,funny,athletic,doctor,pause time
+143,male,8,Aquarius,Art,Extravert,Optimist,4,8,18,7,friends,music,laid back,setericle,music industry,speed
+144,female,5,Sagittarius,Gym,Don't Know,Optimist,2,8,5,9,family,reading,shy,active,Doctor,to know everything
+145,female,4,Pisces,Gym,Extravert,Don't Know,1,10,7,0,hockey,soccer,active,sporty,doctor,fly
+146,female,4,Cancer,Art,Extravert,Optimist,2,11,,1,video games,hockey,different,hungry,buisness person,water
+147,female,4,Cancer,Gym,Extravert,Optimist,2,10,7,0,hockey,video games,,weird,cook,all powers
+148,Don't Identify,5,Aries,History,Extravert,Pessimist,3,10,5,4,soccer,video games,hungry,friendly,teacher,telephathy
+149,male,5,Aries,Math,Extravert,Optimist,3,9,10,7,video games,lego,smart,smart,engineer,fast
+150,female,6,Aries,Art,Extravert,Pessimist,10,2,13,1,netflix,chill,positive,lazy,brain surgen,vampire
+151,female,6,Cancer,Gym,Extravert,Don't Know,5,4,8,1,netflix,swim,lazy,pretty,lawyer,vampire
+152,female,5,Pisces,Math,Extravert,Optimist,2,10,6,2,pet project,out side,unsure,smart,vet,fly 
+153,female,5,Sagittarius,Gym,Don't Know,Pessimist,4,4,9,1,video games,playing,shy,fun,animater,
+154,male,5,Gemini,Gym,Extravert,Optimist,1,10,40,14,video games,outdoors,empathetic,observant,doctor,plasma
+155,female,5,Sagittarius,Science,Don't Know,Pessimist,4,9,15,1,tv,you tube,clueless,funny,engineer,flying
+156,female,5,Capricorn,Art,Extravert,Optimist,3,8,7,6,reading,eating,determined,caring,actress,flying
+157,male,5,Aries,Science,Don't Know,Pessimist,7,8,10,0,tv,basketball,talkative,witty,biologist,time travel
+158,female,5,Capricorn,Math,Extravert,Don't Know,4,10,7,3,trampoline,baking,happy,annoying,doctor,mind reading
+159,male,5,Capricorn,Gym,Extravert,Optimist,1,8,16,5,soccer,tv,funny,loyal,author,teleportation
+160,male,5,Capricorn,Gym,Extravert,Don't Know,2,9,11,4,sports,video games,fun,caring,engineer,invisibility
+161,female,5,Gemini,Gym,Extravert,Don't Know,2,8,16,6,gymnastics,talking,extraverted,sassy,lawyer,mind bending
+162,male,5,Capricorn,Gym,Extravert,Optimist,5,3,5,1,origami,video games,free spirited,creative,computer scientist,mind reading
+163,female,5,Scorpio,Science,Don't Know,Pessimist,6,11,7,1,screen,sleep,happy,good,rich,
+164,male,6,Virgo,Gym,Extravert,Pessimist,1,10,7,1,video games,being happy,weird,korean,millionaire,flying
+165,female,6,Leo,History,Introvert,Pessimist,1,8,7,2,reading ,running ,happy,shy,lawyer,flying
+166,male,6,Cancer,Gym,Extravert,Optimist,3,9,12,3,eating ,play ps4,lazy ,energetic,NFL player,super strength
+167,male,6,Libra,Gym,Extravert,Optimist,5,10,15,2,friends,sports,active ,tall,hockey player,good at everything
+168,female,4,Virgo,Science,Extravert,Optimist,1,10,70,1,road hockey,friends,short,active,hockey player,invisibility
+169,female,4,Virgo,Gym,Introvert,Pessimist,1,8,3,1,playing on computer,playing with her birds,shy,quiet,interior designer,bend reality
+170,male,4,Aquarius,Art,Extravert,Don't Know,5,10,1,6,video games,tree tag,emotional ,kind,baseball player,everything
+171,female,4,Aries,Gym,Don't Know,Optimist,1,10,8,1,soccer ,playing with brother,active ,tall,interior designer,super speed
+172,female,4,Aries,Math,Introvert,Optimist,1,11,7,1,reading ,drawing,active ,happy,chef,flying
+173,male,4,Aries,Science,Introvert,Pessimist,1,8,9,1,reading ,technology,calm,funny,robot creator,anything he wants
+174,female,4,Virgo,History,Extravert,Pessimist,1,11,2,1,video games,reading,friendly,funny,designer,flying
+175,female,4,Leo,Science,Don't Know,Don't Know,1,10,9,2,gymnastics,reading,indecisive,active,gymnast,flying
+176,male,6,Aries,Math,Extravert,Pessimist,1,9,22,7,basketball,video games,fun,cool,doctor,super speed
+177,female,6,Virgo,Science,Extravert,Pessimist,8,7,1,1,eating,video games,lazy,funky,horse rider,teleportation
+178,male,6,Aries,Math,Extravert,Optimist,2,8,10,9,playing sports,playing with friends,sporty,smart,surgeon,super speed
+179,female,6,Aquarius,Gym,Extravert,Pessimist,6,8,7,0,watching youtube,sleeping,load,energitic,lawyer,mind reading
+180,male,6,Capricorn,Math,Extravert,Optimist,2,9,10,1,nothing,nothing,fun,energetic,inventor,shape shifting
+181,female,6,Aries,Gym,Extravert,Pessimist,5,6,7,0,playing with dog,volley ball,agressive,anoying,movue star,teleportation
+182,male,6,Sagittarius,Math,Extravert,Optimist,1,11,13,6,playing sports,reading,nice,smart,enginere,invisibility
+183,male,6,Cancer,Gym,Extravert,Optimist,3,9,11,5,video games,playing with friends,fun,energetic,zoologist,super speed
+184,female,6,Aries,Gym,Extravert,Optimist,2,9,7,0,playing,playing with animals,hyper,flimsy,happy,super speed
+185,female,6,Gemini,Art,Introvert,Pessimist,5,9,7,9,watching youtube,drawing,tired,smart,artist,
