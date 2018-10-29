@@ -1,0 +1,103 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+---
+
+# Install and Load the Packages
+
+```{r}
+#Install and Load Packages
+install.packages("corrplot")
+install.packages("data.table")
+library(devtools)
+install_github("raivokolde/pheatmap")
+install.packages("RColorBrewer")
+install.packages("ggstatsplot")
+install.packages("later")
+install.packages("stringdist")
+install.packages("sjstats")
+install.packages("tidytext")
+install.packages("dplyr")
+install.packages("stringr")
+require(devtools)
+install_github("lchiffon/wordcloud2")
+install.packages("tidyr")
+install.packages("ggrepel")
+install.packages("formattable")
+install.packages("skimr")
+install.packages("DT")
+install.packages("devtools") # if you have not installed "devtools" package
+devtools::install_github("xvrdm/ggrough")
+install.packages("FFTrees")
+
+
+library(pheatmap)
+library(data.table)
+library(corrplot)
+library(ggplot2)
+library(plyr)
+library(RColorBrewer)
+library(later)
+library(stringdist)
+library(sjstats)
+library(ggstatsplot)
+library(tidytext)
+library(dplyr)
+library(stringr)
+library(rtweet)
+library(wordcloud2)
+library(tidyr)
+library(ggrepel)
+library(skimr)
+library(formattable)
+library(DT)
+library(ggrough)
+library(FFTrees)
+library(knitr)
+```
+
+
+# Set up the color variables
+
+Setting up some basic color variables will keep our charts neat and consistently formatted.
+
+```{r}
+
+# Create color palettes
+bluePalette <- colorRampPalette(brewer.pal(15,"Blues"))(8)
+bluePalette <-bluePalette[-c(1,2)] # remove first 2 b/c they are too light to plot
+bluePalette
+
+bluePalette2 <- c("#C5E2F7", "#92BAD2", "#53789E", "#395877")
+
+##Set the blue color scale since non gender specific
+pinkPalette <- c("#FDAB9F", "#FE7F9C", "#DF5286", "#F5C3C2", "#FE5BAC", "#FF69B4", "#FB9AAC")
+
+#set the male, female color scale
+genderNeutralCol <- "#C6AE74"
+girlCol <- "#E07478"
+boyCol <- "#588CA8"
+  
+mfPalette <- c(genderNeutralCol, girlCol, boyCol)
+
+```
+
+# Bring in the data sets
+
+```{r}
+#Bring in the data set
+df= fread('https://raw.githubusercontent.com/lgellis/STEM/master/DATA-ART-1/Data/FinalData.csv')
+attach(df)
+
+#Bring in the data with normalized job descr
+dfNormal <- fread('https://raw.githubusercontent.com/lgellis/STEM/master/DATA-ART-1/Data/FinalDataNormalizedCareer.csv')
+head(dfNormal)
+```
+
+
+
+
+
